@@ -1,4 +1,4 @@
-# -NeuroGuard-Embedded-Parkinson-s-Detection-System
+# NeuroGuard-Embedded-Parkinson-s-Detection-System
 This project uses an mbed microcontroller to detect Parkinson's tremors with a gyroscope sensor. It initializes gyroscope settings, configures interrupts, and processes data for 15 seconds. Results are displayed on an LCD in real-time, showing tremor detection.
 # Introduction
 This project is designed to detect Parkinson's tremors using a gyroscope sensor connected to an mbed microcontroller. The system collects gyroscope data for a period of 15 seconds, processes the data to calculate angular velocity and frequency, and displays the results on an LCD screen.
@@ -39,3 +39,7 @@ Displays the final results, including frequency of each axis and detection resul
 # LCD and LED Output
 The LCD screen displays real-time and final results of the recorded data.
 An LED provides visual indication if any tremors are detected.
+# Team Members
+Yugesh Panta
+Srujana Kanchisamudram Seshagiribabu
+Rithvik Peeriga
