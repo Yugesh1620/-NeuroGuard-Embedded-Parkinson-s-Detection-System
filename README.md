@@ -40,6 +40,6 @@ Displays the final results, including frequency of each axis and detection resul
 The LCD screen displays real-time and final results of the recorded data.
 An LED provides visual indication if any tremors are detected.
 # Team Members
--Yugesh Panta
--Srujana Kanchisamudram Seshagiribabu
--Rithvik Peeriga
+- Yugesh Panta
+- Srujana Kanchisamudram Seshagiribabu
+- Rithvik Peeriga
