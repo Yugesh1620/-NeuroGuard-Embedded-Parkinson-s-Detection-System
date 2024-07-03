@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "RTES_project",
+			"path": "../RTES_project"
+		},
+		{
+			"name": "Recitation",
+			"path": "../RTES_project/Recitation"
+		},
+		{
+			"name": "RTES_P",
+			"path": "."
+		},
+		{
+			"name": "Project",
+			"path": "../Project"
+		}
+	],
+	"settings": {}
+}
