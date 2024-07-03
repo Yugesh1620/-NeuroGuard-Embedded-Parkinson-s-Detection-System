@@ -18,9 +18,9 @@ The code includes necessary header files for mbed, math operations, LCD control,
 EventFlags object: Declared to handle various events.
 Callback functions: Defined for handling SPI events, data readiness, button presses, and timer interrupts.
 # Hardware Initialization
-Initialization of LCD, SPI, and InterruptIn objects.
-Setting up SPI format and frequency.
-Writing configuration data to gyroscope control registers using SPI transfers.
+-Initialization of LCD, SPI, and InterruptIn objects.
+-Setting up SPI format and frequency.
+-Writing configuration data to gyroscope control registers using SPI transfers.
 # Main Loop
 Initializes variables and arrays for data processing.
 Runs indefinitely until Parkinson’s tremors are detected or until stopped.
@@ -40,6 +40,6 @@ Displays the final results, including frequency of each axis and detection resul
 The LCD screen displays real-time and final results of the recorded data.
 An LED provides visual indication if any tremors are detected.
 # Team Members
-Yugesh Panta
-Srujana Kanchisamudram Seshagiribabu
-Rithvik Peeriga
+-Yugesh Panta
+-Srujana Kanchisamudram Seshagiribabu
+-Rithvik Peeriga
